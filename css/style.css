@@ -3088,6 +3088,10 @@ h6 {
 
 /* feature item2 */
 
+.projects_area {
+  background-color: #f9f9ff;
+}
+
 .feature_item2 {
   padding: 50px 35px;
   border-radius: 10px;
@@ -3121,7 +3125,5 @@ h6 {
       background: linear-gradient(to right, #8490ff 0%, #62bdfc 70%);
       -webkit-text-fill-color: transparent; }
 
+ /* end */
 
-.projects_area {
-  background-color: #f9f9ff;
-}
