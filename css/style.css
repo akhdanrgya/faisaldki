@@ -2775,11 +2775,10 @@ h6 {
       .feature_area.feature_tow .feature_item:hover {
         background: #fff; }
 
-.feature_area2 .container .o .feature_item2 h4 {
+.feature_area2 h4 {
   color: black;
 }
-
-.feature_area2 .container .o .feature_item2 p {
+.feature_area2 p {
   text-align: center;
 }
 
