@@ -1,4 +1,4 @@
-body{
+body {
 	background-color:#FFF;
     font-family: "Lato", sans-serif;
     font-weight: 300;
@@ -7,7 +7,7 @@ body{
 	color:#777;
 }
 
-p{
+p {
 	margin:0;
 }
 
@@ -33,7 +33,7 @@ h5 { font-size: 16px;}
 h6 { font-size: 14px;}
 
 strong {
-  letter-s;;Dacing: 1px;
+  letter-sDacing: 1px;
 }
 
 code {
